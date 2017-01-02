@@ -1,0 +1,4 @@
+import golem
+golem = Golem()
+
+
